@@ -1,4 +1,13 @@
 [
+
+  
+  {
+    "id": "1a72cdb7830ac19b",
+    "username": "erli",
+    "password": "erli",
+    "expiresAt": "2030-12-31",
+    "allowOffline": true
+  },
   {
     "id": "d89fd31e1d0ac010",
     "username": "tri",
