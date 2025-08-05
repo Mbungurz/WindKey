@@ -2,6 +2,13 @@
 
   
   {
+    "id": "4a605e6ba114a3cc",
+    "username": "iqra",
+    "password": "iqra",
+    "expiresAt": "2030-12-31",
+    "allowOffline": true
+  },
+  {
     "id": "1a72cdb7830ac19b",
     "username": "erli",
     "password": "erli",
