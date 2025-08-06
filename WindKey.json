@@ -1,5 +1,23 @@
 [
 
+       {
+        "device_id": "d89fd31e1d0ac010",
+        "key": "d89fd31e1d0ac010",
+        "expirydate": "15-06-2035",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "xxxxxxxxxxxxxxxx",
+        "key": "xxxxxxxxxxxxxxx",
+        "expirydate": "15-06-2035",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "",
+        "key": "key67890",
+        "expirydate": "15-06-2035",
+        "Allowoffline": false
+    }
   
   {
     "id": "4a605e6ba114a3cc",
@@ -15,13 +33,7 @@
     "expiresAt": "2030-12-31",
     "allowOffline": true
   },
-  {
-    "id": "d89fd31e1d0ac010",
-    "username": "tri",
-    "password": "tri",
-    "expiresAt": "2030-12-31",
-    "allowOffline": true
-  },
+
   {
     "id": "android_device_id_2",
     "username": "user2",
