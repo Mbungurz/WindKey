@@ -1,6 +1,13 @@
 [
 
-       
+              
+  {
+    "id": "bc4e155a0360109f",
+    "username": "tri",
+    "password": "tri",
+    "expiresAt": "2030-12-31",
+    "allowOffline": true
+  },
   {
     "id": "4a605e6ba114a3cc",
     "username": "iqra",
