@@ -1,6 +1,13 @@
 [
 
-              
+                     
+  {
+    "id": "1b5bda6033d48f1a",
+    "username": "dani",
+    "password": "dani",
+    "expiresAt": "2030-12-31",
+    "allowOffline": true
+  },       
   {
     "id": "d89fd31e1d0ac010",
     "username": "tri",
