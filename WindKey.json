@@ -1,6 +1,13 @@
 [
 
-                                             
+                                                
+  {
+    "id": "6857efaf3dc6a921",
+    "username": "east",
+    "password": "east",
+    "expiresAt": "2030-12-31",
+    "allowOffline": true
+  },                                          
   {
     "id": "20389ea09be3069e",
     "username": "lius",
