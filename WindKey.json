@@ -1,6 +1,13 @@
 [
 
-                                                    
+                                                        
+  {
+    "id": "b9e5b59196f025fa",
+    "username": "martin",
+    "password": "martin",
+    "expiresAt": "2030-12-31",
+    "allowOffline": true
+  },                                                
   {
     "id": "e5d850dafcc9f05d",
     "username": "albar",
